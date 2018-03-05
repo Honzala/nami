@@ -1,1 +1,1 @@
-# nami
+Tento repozitář jsem vytvořil z důvodu vypracování úkolů do předmětu Nástroje a možnosti internetu.
