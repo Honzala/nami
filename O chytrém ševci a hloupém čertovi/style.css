@@ -1,67 +1,17 @@
-
-  body {
-
-
-    margin-right: 300px;
-    margin-left: 300px;
-    text-align: justify;
-    text-justify;
-    padding: 90px;
-    border: solid;
-    background-color: WhiteSmoke;
-    line-height: 26px;
-
+    p { 
+  color: grey; 
+  font-weight: normal; 
+  font-family: arial;
   }
-
-  h1, h2 {
-    text-align: center;
-    margin-top: 70px;
-    font-family: "Arial";
+  h1{color:black;
+  text-align: center;
+  font-weight:normal;
+  text-decoration: bold;}
+  h2{color: black;
+  font-weight:normal;
   }
-
-  h1 {
-    font-size: 45px;
-  }
-
-  h2 {
-    font-size: 35px;
-  }
-
-
-  p, blockquote {
-    font-family: "Arial";
-    font-size: 20px;
-  }
-
-
-  .zanr {
-    font-size: 35px;
-    font-weight: bold;
-    text-decoration: underline;
-  }
-
-  .name {
-    font-weight: bold;
-    color: DarkBlue;
-  }
-
-  .zdroj {
-    font-style: oblique;
-  }  
-
-  
-
-  #uvod {
-    margin-top: 60px;
-  }
-
-  blockquote {
-    text-transform: uppercase;
-  }
-
-  
-  footer {
-    font-style: oblique;
-    float: right;
-  }
-
+   body { line-height:2;
+     border: 2px solid black;
+     ;
+   }
+  h2{ *color: black;}
